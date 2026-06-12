@@ -143,7 +143,7 @@
 
 ---
 
-## Next Steps — Part 2 (Coming Soon)
+## Next Steps — Part 2
 
 Once these findings are internalized and immediate actions are underway:
 
@@ -175,7 +175,6 @@ Once these findings are internalized and immediate actions are underway:
 ├── eda_audit.ipynb                    (25 cells, 400 lines)
 ├── business_memo.md                   (2,000 words)
 ├── data_quality_report.md             (3,000 words)
-├── churn_risk_master.csv              (5,000 rows)
 └── [9 PNG charts]
     ├── fig1_missing_values.png
     ├── fig2_outliers.png
