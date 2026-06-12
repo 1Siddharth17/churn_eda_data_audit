@@ -19,7 +19,7 @@
   -  6 data-backed, business-actionable hypotheses
   -  Heuristic pre-ML risk scoring (quick customer segmentation)
   -  Master export table for downstream modeling
-- **Key outputs:** 9 PNG charts + 1 CSV (churn_risk_master.csv) + inline insights
+- **Key outputs:** 9 PNG charts + inline insights
 
 #### 2️ **business_memo.md** — Executive Brief
 - **What:** 2,000-word C-suite memo with findings, priorities, and financial impact
